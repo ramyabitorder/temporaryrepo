@@ -1,0 +1,182 @@
+[
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "0803afd433bedf4fb3c621888196f3a590a9c016",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "bd112183869aad93462157f7176f55b03e68f20c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/classes/DemoController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/classes/DemoController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 927,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "cd7b8089de83cb1fadc4f54f69e77ff8816424b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/classes/DemoController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/classes/DemoController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/classes/DemoControllerTests.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/classes/DemoControllerTests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 651,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "bbe4cc9820e0c0f29076ca52d883403b4266338d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/classes/DemoControllerTests.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/classes/DemoControllerTests.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/pages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "8321bf938eae81fc8c55f4bafb5c03e963cd1dbb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/pages/DemoPage.page",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/pages/DemoPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1542,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "c582b0ba9627a98a242a6c30da26c2b7ad838863",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/pages/DemoPage.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20/force-app/main/default/pages/DemoPage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 284,
+            "modifiedTime": 1505805358000,
+            "changeTime": 1505805394000,
+            "contentHash": "924a2d0a4f48c367044845bdb05e9be55067126a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/FPSS/Documents/DXDemo20/Demo20",
+        {
+            "state": "n",
+            "sourcePath": "/Users/FPSS/Documents/DXDemo20/Demo20",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1505805394000,
+            "changeTime": 1505805394000,
+            "contentHash": "90ee91790eed19860127033d64c6d50af5307516",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
